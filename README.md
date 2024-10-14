@@ -1,1 +1,32 @@
-# CODTECHIT-TASK1
+![image](https://github.com/user-attachments/assets/d2b21c52-b5d4-46f6-b859-1527779dfcc7)![image](https://github.com/user-attachments/assets/6fa914f9-9779-4cc9-83d8-55991711f8a1)NAME:ARATHI MUKUNTHAN M
+COMPANY:CODTECH IT SOLUTIONS
+ID:CT04DS7831
+DOMAIN:WEB DEVELOPMENT
+DURATION:15 SEP TO 15 OCT 2024
+
+OVER VIEW OF THE PROJECT
+
+PROJECT:weather app
+![image](https://github.com/user-attachments/assets/839ca3fe-84d3-4a17-8ef2-e6d478af2268)
+
+
+
+Objectives:
+To develop a simple and user-friendly weather application.
+To allow users to check real-time weather information for any city.
+To provide key weather details (temperature, humidity, wind speed) with error handling for incorrect city names.
+
+Key Points:
+Interactive UI: Clean and responsive interface that enables easy navigation.
+Dynamic Data: Displays current temperature, humidity, and wind speed by fetching real-time data.
+Iconography: Uses icons that change based on weather conditions (e.g., clear, cloudy, rainy).
+Error Handling: Shows an error message when an invalid city name is entered.
+
+Technology Used:
+HTML: For structuring the webpage.
+CSS: For styling the weather card, search box, and icons.
+JavaScript: For API integration and handling user input and data display.
+OpenWeatherMap API: For retrieving up-to-date weather information.
+
+Conclusion:
+The Weather App effectively provides real-time weather details with a straightforward and intuitive interface. It demonstrates how to work with APIs, manage asynchronous requests, and dynamically update the UI based on user input and fetched data.
